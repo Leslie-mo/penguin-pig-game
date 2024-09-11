@@ -1,1 +1,3 @@
 # penguin-pig-game
+I’m amazed that I could create a purely front-end mini-game so quickly...
+Here is the demo https://v0.build/srd9MuZ
